@@ -9,7 +9,7 @@ Data Analysis - додаток для первинного статистичн�
 ![N|Solid](https://i.ibb.co/0cwqFwW/2829.png)
 Програма виконує аналіз інтервального ряду та дискретного.
 ### Скріншоти
-![N|Solid](https://i.imgur.com/YYfMFvv.png)
+![N|Solid](https://i.ibb.co/6m1qSjQ/2830.png)
 ![N|Solid](https://i.imgur.com/BIsalap.png)
 ![N|Solid](https://i.imgur.com/nFtDFcV.png)
 ![N|Solid](https://i.imgur.com/KfmCoVf.png)
